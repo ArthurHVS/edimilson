@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.banditEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.dataScience.jupyterServerURI": "local",
+    "python.formatting.provider": "black",
+    "python.pythonPath": "/bin/python3"
+}
